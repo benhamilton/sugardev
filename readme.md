@@ -12,8 +12,8 @@
 
 ## Steps
 
-1. Create a directory i.e. `SugarEnt-Full-9.0.0` and change to that directory
-2. Copy the SugarCRM install files to that folder i.e. `SugarEnt-Full-9.0.0.zip`
+1. Create a directory i.e. `SugarEnt-9.0.0` and change to that directory
+2. Copy the SugarCRM install files to that folder i.e. `SugarEnt-9.0.0.zip`
 3. Run the following commands to do the initial setup:
 ```bash
 vagrant init sugarcrm/php71es56
